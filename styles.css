@@ -34,3 +34,12 @@ h1, h2, .headings {
     width: 35%;
     height: 65%;
 }
+
+.trustmebroitsworking {
+    margin: 0 auto;
+    background-color: #bebebe;
+    border-radius: 5px;
+    padding: 24px;
+    width: 35%;
+    height: 0%;
+}
